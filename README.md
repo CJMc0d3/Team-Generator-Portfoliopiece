@@ -10,3 +10,6 @@ the command node app.js within the terminal. Depending on which answers the user
 I was not able to get the answers to populate the html correctly, but I was able to get the html head and body tag to populate from the javascript including the navbar with title.
 
 This app was create with Node.js, Inquirer, es6 syntax, Jest, and fs.
+
+
+![TeamGenerator](https://user-images.githubusercontent.com/88017783/138816949-6b77436d-ded7-4386-8d1e-786473487910.PNG)
